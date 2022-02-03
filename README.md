@@ -25,7 +25,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Contact</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -68,7 +68,7 @@ Some information for a quick installation of the project
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:lami-health/website.git
+   git clone git@github.com:msthieleag/fan-test-problem-statement.git
    ```
 2. Open the project in your favorite IDE and install dependencies
    ```sh
@@ -107,3 +107,5 @@ Project structure:
 
 - linkedin: https://www.linkedin.com/in/thielem/
 - email: marcio.sthieleag@gmail.com
+
+<p align="right">(<a href="#top">back to top</a>)</p>
