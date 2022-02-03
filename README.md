@@ -1,6 +1,9 @@
 <div id="top"></div>
 
 <br />
+<a>
+  <img src="https://github.com/msthieleag/fan-test-problem-statement/cgi.png" alt="Lami" width="150" height="65">
+</a>
 <div align="center">
 <h3 align="center">Fan Test Problem Statement</h3>
 </div>
@@ -58,7 +61,7 @@ The Project comes with a complete set of modern tools and libraries, including:
 Some information for a quick installation of the project
 
 ### Prerequisites
-* 
+
 * Java 
 * Maven
 * Java IDE, for example: Intellij, Eclipse, VsCode and others
@@ -83,7 +86,7 @@ The folders for this project should be organized according to the following exam
 
 - Entities: All entities of the project
 - Enums: All enums of the project
-- 
+
 Project structure:
 ```
 ├── src
