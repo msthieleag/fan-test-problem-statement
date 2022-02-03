@@ -1,10 +1,10 @@
 <div id="top"></div>
 
 <br />
-<a>
-  <img src="https://github.com/msthieleag/fan-test-problem-statement/cgi.png" alt="Lami" width="150" height="65">
-</a>
 <div align="center">
+<a>
+  <img src="https://github.com/msthieleag/fan-test-problem-statement/blob/main/cgi.png" alt="cgi" width="150" height="65">
+</a>
 <h3 align="center">Fan Test Problem Statement</h3>
 </div>
 
