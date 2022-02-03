@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 <a>
-  <img src="https://github.com/msthieleag/fan-test-problem-statement/blob/main/cgi.png" alt="cgi" width="150" height="65">
+  <img src="https://github.com/msthieleag/fan-test-problem-statement/blob/main/cgi.png" alt="cgi" width="150" height="80">
 </a>
 <h3 align="center">Fan Test Problem Statement</h3>
 </div>
